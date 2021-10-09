@@ -1,0 +1,41 @@
+
+ .design{
+ 	background-color:skyblue;
+ 	height: 10vh;
+ 	margin: 3px;
+
+ }
+
+
+ .llm1{
+ 	background-color:skyblue;
+ 	height: 45vh;
+ 	margin: 3px;
+ 	
+ 	 
+ }
+
+
+
+ .space{
+ 	display: flex;
+ 	
+ 	  align-content: center;
+ 	  justify-content:space-between;	
+		
+			
+ }
+ .space>div{
+ 	background-color:skyblue;
+ 	width:25%;
+	height: 45vh;
+
+ }
+
+ 	 .ring{
+ 	background-color:skyblue;
+ 	height: 10vh;
+ 	margin: 3px;
+ 	}
+
+
